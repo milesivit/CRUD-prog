@@ -1,4 +1,3 @@
-# Subi el node_modules muy boluda
 ## Ejemplo de Body JSON
 ```json
 {
