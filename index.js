@@ -6,8 +6,8 @@ const port = 3000
 
 app.use(express.json())
 
-const productRouter = require('./routes/products.routes')
-app.use('/productos', productRouter)
+const userRouter = require('./routes/products.routes')
+app.use('/usuarios', userRouter)
 
 
 app.listen(port, () =>{
