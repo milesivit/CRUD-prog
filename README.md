@@ -5,7 +5,8 @@ Body JSON:
   "contrasenia": "ani123",
   "email": "anita@gmail.com"
 }
-Pruebas de que anda de diez
+
+- Pruebas de que anda de diez
 ![Captura desde 2025-05-24 01-51-40](https://github.com/user-attachments/assets/f1a3d577-942b-46a4-acac-0ea0807f91d7)
 ![Captura desde 2025-05-24 01-52-40](https://github.com/user-attachments/assets/43549f70-8246-4717-8b10-89a1805ffb56)
 ![Captura desde 2025-05-24 01-52-17](https://github.com/user-attachments/assets/03270f82-dfb0-4a04-a6af-ea8477df2038)
